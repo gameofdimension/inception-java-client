@@ -1,6 +1,9 @@
 # inception-java-client
 java client for tensorflow serving's inception example
 
+# input
+![](src/main/resources/plane.jpg)
+
 # output
 ```
 outputs {
